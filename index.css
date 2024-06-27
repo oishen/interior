@@ -90,6 +90,9 @@ footer p {
   color: white;
   padding: 0 40px;
 }
+#sec1 h2{
+  font-family: "Architects Daughter", cursive;
+}
 
 @media only screen and (max-width: 992px) {
   *{
